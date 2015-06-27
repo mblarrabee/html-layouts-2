@@ -1,0 +1,38 @@
+html, body{
+	margin:0;
+}
+header{
+	background:#333333;
+	height:60px;
+}
+.applegoogle{
+	color:white;
+	float:left;
+	margin:20px 0px 15px 40px;
+}
+.content{
+	padding:40px 35px;
+	
+}
+h1{
+	font-family:arial;
+
+}
+.col{
+	width:45%;
+	display:inline-block;
+	vertical-align:top;
+
+}
+.divider{
+	width:10px;
+	display:inline-block;
+}
+.emptybox{
+	height:300px;
+	background:#D8D8D8;
+}
+footer{
+	background:#333333;
+	height:60px;
+}
